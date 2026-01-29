@@ -31,3 +31,5 @@ git push origin main
 GitHub Pages gestionará el certificado HTTPS automáticamente para el dominio una vez esté correctamente configurado.
 
 ¿Quieres que cree el archivo `public/CNAME` ahora con tu dominio o prefieres que lo haga tú mismo cuando lo tengas listo?
+
+<!-- trigger: re-run Pages workflow -->
